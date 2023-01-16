@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-ssv",
+  "version": "1.0.0",
+  "description": "Random Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssalazar446/random-str-msg-ssv.git"
+  },
+  "keywords": [],
+  "author": "Sebastian Salazar <ssalazar446@misena.edu.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ssalazar446/random-str-msg-ssv/issues"
+  },
+  "homepage": "https://github.com/ssalazar446/random-str-msg-ssv#readme",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
